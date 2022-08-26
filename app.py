@@ -10,7 +10,7 @@ st.set_page_config(page_title="Rank Tracker",page_icon="📈",layout="wide"   )
 st.title('Rank Tracker by Yaniss Illoul from Martech with Me')
 st.header("Rank Tracker (Serpstack API Edition)")
 st.markdown("In order to use this app, you will need a **free Serpstack API** key that allows you to use this interface for 100 free calls a month. You can generate your key by [signing up here](http://serpstack.com?utm_source=FirstPromoter&utm_medium=Affiliate&fpr=martechwithme).")
-st.markdown("This interface has been developed by [Rabiyulfahim](https://www.linkedin.com/in/rabiyul-fahim-0b9981155/) (Feel free to connect!).")
+st.markdown("This interface has been developed by [Yaniss Illoul](https://www.linkedin.com/in/yanissi/) (Feel free to connect!) from [Martech with Me](https://martechwithme.com/?utm_source=ranktracker&utm_medium=streamlit).")
 st.markdown("If you like this project, please consider visiting my website for more Martech tools and tutorials. Don't hesitate to reach out if you have any feature requests or ideas.")
 
 form = st.form(key='rankTrackerForm')
